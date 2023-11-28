@@ -1,0 +1,15 @@
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\obj\Debug\net6.0\new003.csproj.AssemblyReference.cache
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\obj\Debug\net6.0\new003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\obj\Debug\net6.0\new003.AssemblyInfoInputs.cache
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\obj\Debug\net6.0\new003.AssemblyInfo.cs
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\obj\Debug\net6.0\new003.csproj.CoreCompileInputs.cache
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\bin\Debug\net6.0\new003.exe
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\bin\Debug\net6.0\new003.deps.json
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\bin\Debug\net6.0\new003.runtimeconfig.json
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\bin\Debug\net6.0\new003.dll
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\bin\Debug\net6.0\new003.pdb
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\obj\Debug\net6.0\new003.dll
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\obj\Debug\net6.0\refint\new003.dll
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\obj\Debug\net6.0\new003.pdb
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\obj\Debug\net6.0\new003.genruntimeconfig.cache
+C:\Users\BaDSaNta\OneDrive\Рабочий стол\homework3\new003\obj\Debug\net6.0\ref\new003.dll
